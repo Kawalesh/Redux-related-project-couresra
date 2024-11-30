@@ -1,0 +1,28 @@
+.landing-page {
+    background-image: url('/path/to/background-image.jpg');
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .content {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 30px;
+    border-radius: 10px;
+    color: white;
+  }
+  
+  .get-started {
+    background-color: #4CAF50;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .get-started:hover {
+    background-color: #45a049;
+  }
+  
